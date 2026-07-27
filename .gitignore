@@ -141,3 +141,16 @@ dist
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
 .vite/
+
+# MkDocs generated files
+site/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# MkDocs cache
+.cache/
+
+# VS Code local settings
+.vscode/
